@@ -41,3 +41,6 @@ Total units sold across all products.
 5.	Profit Margin %
 Percentage of profit relative to sales.
 =Total Profit / Total Sales
+
+## Dashboard:-
+![Screenshot 2025-06-27 154351](https://github.com/user-attachments/assets/065e7314-48af-4967-a585-ddd88a6d96f6)
